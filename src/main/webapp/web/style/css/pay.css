@@ -1,0 +1,108 @@
+@charset "utf-8";
+.breadcrumb{
+	margin-bottom: 10px;
+}
+.main .container{
+	background: #fff;
+}
+.pay{
+	border: 2px solid #006DCC;
+	margin: 10px;
+	padding: 10px;
+}
+.pay form{
+	border-bottom: 1px solid #D7D7D7;
+	padding-bottom: 10px;
+}
+.pay form label{
+	width: 100px;
+	text-align: right;
+}
+.payone table,.payone table tbody,.payone table  tr,.payone table td{
+	border: none;
+}
+.payone table tr.title{
+	background: #D1E8FA;
+}
+.payone table tr td{
+	padding: 5px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.payone>h4{
+	margin-top: 20px;
+	border-bottom: 1px solid #D5DEEF;
+	padding: 5px;
+	font-weight: 600;
+}
+.payone>.content{
+	padding-left: 10px;
+}
+.payone>.content>h6{
+	font-weight: 600;
+}
+.payone>.content>p{
+	margin: 5px;
+}
+.paytwo>h5{
+	padding: 5px;
+	border-bottom: 1px solid #D5DEEF;
+}
+.paytwo>P{
+	font-size: 14px;
+	padding-left: 10px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+.paytwo>P>font{
+	padding-left: 10px;
+	color: rgba(255, 0, 0, 0.7)
+}
+.paytwo>form{
+	padding-left: 10px;
+}
+.paytwo>form label>font{
+	color: #f60;
+}
+.paytwo form input,.paytwo form select{
+	border: 1px solid #f60;
+	padding:2px 5px;
+}
+.paytwo form .input{
+	margin:10px;
+}
+.paytwo form .input .phone{
+	border: 1px solid #999999;
+}
+.paytwo form .input .input-phone{
+	width: 100px;
+}
+.paytwo form textarea{
+	width: 500px;
+	height: 100px;
+}
+.pay .paylast{
+	padding: 10px;
+	margin: 20px;
+	text-align: center;
+}
+.pay .paylast a{
+	float: left;
+}
+.pay .paylast a:hover{
+	text-decoration: underline;
+}
+.pay .paylast input[type="button"]{
+	padding: 8px 50px;
+background: #FF5B45;
+border: none;
+border-radius: 2px;
+color: #fff;
+}
+.pay .paylast input[type="button"]:Hover{
+	background: #f71d00;
+}
+
+
+
