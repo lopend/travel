@@ -23,7 +23,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <spring.version>4.3.17.RELEASE</spring.version>
         <druid.version>1.1.6</druid.version>
-        <mybatis.version>3.2.8</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <junit.version>4.12</junit.version>
         <!--   此处需要注意，如果使用mysql5.0请更改版本 并且更改jdbc.properties配置文件     -->
         <mysql.version>5.1.47</mysql.version>
